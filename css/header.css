@@ -1,0 +1,204 @@
+* {
+
+/*    background-color: #ff1;*/
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   /* background-color: #333;*/
+}
+
+#test :hover{
+    background-image: url("../img/1.jpg");;
+}
+#test1 :hover{
+ background-image: url("../img/2.jpg");
+}
+#test2 :hover{
+ background-image: url("../img/3.jpg");
+}
+#test3 :hover{
+ background-image: url("../img/4.jpg");
+}
+#test4 :hover{
+ background-image: url("../img/5.jpg");
+}
+#test5 :hover{
+ background-image: url("../img/6.jpg");
+}
+#test6 :hover{
+ background-image: url("../img/7.jpg");
+}
+#test7 :hover{
+ background-image: url("../img/8.jpg");
+}
+#test8 :hover{
+ background-image: url("../img/9.jpg");
+}
+#test9 :hover{
+ background-image: url("../img/10.jpg");
+background-size: cover;
+}
+#test10 :hover{
+ background-image: url("../img/11.jpg");
+}
+#test11 :hover{
+ background-image: url("../img/12.jpg");
+}
+#test12 :hover{
+ background-image: url("../img/13.jpg");
+}
+#test13 :hover{
+ background-image: url("../img/14.jpg");
+}
+#test14 :hover{
+ background-image: url("../img/15.jpg");
+}
+#test15 :hover{
+ background-image: url("../img/16.jpg");
+}
+#test16 :hover{
+ background-image: url("../img/17.jpg");
+}
+#test17 :hover{
+ background-image: url("../img/18.jpg");
+}
+#test18 :hover{
+ background-image: url("../img/19.jpg");
+}
+#test19 :hover{
+ background-image: url("../img/20.jpg");
+}
+#test20 :hover{
+ background-image: url("../img/21.jpg");
+}
+#test21 :hover{
+ background-image: url("../img/22.jpg");
+}
+#test22 :hover{
+ background-image: url("../img/23.jpg");
+}
+#test23 :hover{
+ background-image: url("../img/24.jpg");
+}
+#test24 :hover{
+ background-image: url("../img/25.jpg");
+}
+#test25 :hover{
+ background-image: url("../img/26.jpg");
+}
+#test26 :hover{
+ background-image: url("../img/27.jpg");
+}
+#test27 :hover{
+ background-image: url("../img/28.jpg");
+}
+#test28 :hover{
+ background-image: url("../img/29.jpg");
+}
+#test29 :hover{
+ background-image: url("../img/30.jpg");
+}
+#test30 :hover{
+ background-image: url("../img/31.jpg");
+}
+#test31 :hover{
+ background-image: url("../img/32.jpg");
+}
+
+a {
+    color: black;
+}
+ul li {
+  flex-basis: auto;
+  flex-grow: 1;
+}
+  
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+/*    padding: 44px 40px;*/
+    padding: 5.9vw;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #fff;
+}
+.text {
+    position: absolute;
+    max-width:30vw;
+    height: 40vw;
+    left: 50vw;
+    top: 6vw;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+}
+.down {
+    position: absolute;
+    width: 45vw;
+    height: 10vw;
+    left: 50vw;
+    top: 37vw;
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 39px;
+}
+
+#first {
+
+    position: absolute;
+    top: 20vw;
+    left: 33vw;
+    text-align: center;
+    font-size: 35pt;
+    font-weight: bold;
+    color: black
+    font-family: PT Sans;
+}
+
+#first2 {
+
+    position: absolute;
+    top: 20vw;
+    left: 37vw;
+    text-align: center;
+    font-size: 20pt;
+    font-weight: bold;
+    color: black
+    font-family: PT Sans;
+}
+
+.arrow {
+    margin: 2vw;
+}
+
+.content{
+position: absolute;
+width: 30vw;
+/*height: 116px;*/
+left: 12vw;
+top: 2vw;
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+/*line-height: 58px;*/
+}

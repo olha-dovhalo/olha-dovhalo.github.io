@@ -1,0 +1,19 @@
+
+p {
+	font-size: 1em;
+	line-height: 1.5em;
+	text-align: justify;
+	letter-spacing: .01em;
+	margin-top: 0.5em;
+	font-weight: bold;
+	text-indent: 2em;
+}
+
+p strong {
+	color: red;
+}
+a {
+   text-decoration: none; /* Убираем подчёркивание */
+   color: red;
+   position: center;
+} 

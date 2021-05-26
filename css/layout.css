@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html, body {
+	font-family: 'PT Sans', sans-serif;
+	
+	background-image: url();
+}
+
